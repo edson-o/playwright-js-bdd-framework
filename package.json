@@ -1,0 +1,23 @@
+{
+  "name": "playwright-js-bdd-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edson-o/playwright-js-bdd-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/edson-o/playwright-js-bdd-framework/issues"
+  },
+  "homepage": "https://github.com/edson-o/playwright-js-bdd-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.5.2"
+  }
+}
